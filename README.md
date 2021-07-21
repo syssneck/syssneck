@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @syssneck/Arì
+- I like to test&verify issues on azerothcore
 - 👀 I’m interested in chromiecraft/azerothcore
 - 🌱 I’m currently learning a lot of new stuff
 - 📫 How to reach me: Discord Arì#1850
